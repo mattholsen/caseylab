@@ -1,0 +1,11 @@
+Avada/assets/less/theme/events-calendar.less:91:			.tribe-bar-views-option a {
+Avada/assets/less/theme/rtl.less:1681:					.tribe-bar-views-option a {
+Avada/assets/css/rtl.css:1434:.rtl #tribe-events #tribe-bar-form #tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a {
+Avada/style.css:7828:#tribe-events-bar #tribe-bar-views .tribe-bar-views-inner .tribe-bar-views-option a {
+Avada/includes/dynamic_css.php:4434:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a'
+Avada/includes/dynamic_css.php:4443:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover',
+Avada/includes/dynamic_css.php:4444:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover'
+Avada/includes/dynamic_css.php:4450:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a',
+Avada/includes/dynamic_css.php:4451:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option a:hover',
+Avada/includes/dynamic_css.php:4452:			'#tribe-bar-views .tribe-bar-views-list .tribe-bar-views-option.tribe-bar-active a:hover'
+Avada/includes/dynamic_css.php:5433:				'#tribe-events-bar .tribe-bar-views-inner .tribe-bar-views-option a'

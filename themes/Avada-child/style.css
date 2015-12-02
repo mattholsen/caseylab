@@ -1,0 +1,53 @@
+/*
+ Theme Name:   Avada Child 
+ Description:  Avada Child Theme specifically for Casey Health
+ Author:       Accelerant Studios
+ Author URI:   http://www.accelerantstudios.com
+ Template:     Avada
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         None
+ Text Domain:  avada-child
+*/
+/** 
+  * NOTE: THE ABOVE COMMENTS **MUST** BE THE FIRST THING IN THIS FILE OR THE CHILD THEME BREAKS
+  * THE PARENT THEME'S CSS DOESN'T HAVE TO BE IMPORTED. AN ACTION ADDED IN functions.php TELLS WORDPRESS TO LOAD IT IN ITS PROPER ORDER
+  * THIS FILE IS LOADED AFTER THE MAIN THEME'S style.css 
+*/
+
+/* Kludge to get single-event template to work with small images  */ 
+  .single-tribe_events .tribe-events-event-image{
+    width:auto;
+    float:left;
+    clear:none;	
+  }
+  
+  
+  #tribe-bar-views li.tribe-bar-views-option {
+    display:block !important;	
+    margin:0 !important;
+  }
+  .tribe-bar-views-option a {
+    padding:2px 3px !important;
+    margin:0 !important;	
+  }
+
+  .tribe-bar-views-inner {
+    padding-top:0 !important;	
+  }
+
+  .fusion-events-featured-image .fusion-events-single-title-content {
+    position:relative;
+    width:auto;	 
+  }
+  
+  .fusion-events-featured-image{
+    background-color:#9E9E9E;
+  }
+  
+  
+  .tribe-events-tooltip p.entry-summary {
+    line-height:95%	!important;
+    font-size:14px	!important;
+  }
